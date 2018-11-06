@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="infoTechSubjects">
+        <item name="Mobile">Mobile Development</item>
+        <item name="Network">Networking</item>
+        <item name="Linux">Linux</item>
+    </string-array>
+    <string-array name="infoTechSubjectValues">
+        <item name="Mo">Mobile</item>
+        <item name="Ne">Network</item>
+        <item name="Lin">Linux</item>
+    </string-array>
+
+</resources>
